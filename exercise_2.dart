@@ -1,6 +1,17 @@
 void main(){
-    int a=99,b=12;
-    int c;
-  print("A:$a");
-  print("B:$b");
+    int x=12,y=20;
+    print("X:$x");
+    print("Y:$y");
+    print("Less Than Or Equal To:");
+    print(x<=y);
+    print("Less Than:");
+    print(x<y);
+    print("Greater Than:");
+    print(x>y);
+    print("Greater Than Or Equal To:");
+    print(x>=y);
+    print("Is Equal To:");
+    print(x==y);
+    print("Is Not Equal To:");
+    print(x!=y);
 }
